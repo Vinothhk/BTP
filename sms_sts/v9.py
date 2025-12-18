@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 import os
-import pygame
+import pygame # type: ignore
 import time
 
 sys.path.append("..")
