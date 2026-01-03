@@ -1,0 +1,23 @@
+8	IEEE Robotics and Automation Letters (RA-L)	Highly Recommended. RA-L is a "Letters" journal, meaning it focuses on quick, impactful, and concise technical results—perfect for a project with a strong, working implementation. It often has an option to present at conferences like ICRA or IROS (see below).
+
+9	Robotics and Autonomous Systems	A great home for research focused on autonomous behavior, adaptation, and learning in robots. This aligns perfectly with Meta-Learning's goal of enabling rapid adaptation to new tasks.
+
+
+Conference on Robot Learning (CoRL)	The most relevant venue for your topic. Focuses exclusively on robot learning (Reinforcement, Imitation, Meta-Learning).	Typically in June/July (for publication in November/December).
+
+IEEE International Conference on Robotics and Automation (ICRA)	The largest and most prominent robotics conference globally. High visibility.	Typically in September (for publication in May/June).
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)	The second major general robotics conference.	Typically in March/April (for publication in October).
+
+
+
+LOW TIER
+
+Journal of Intelligent & Robotic SystemsBroadly accepts work on control, sensing, and intelligence in robotic systems. Good for solid experimental work.
+
+Industrial Robot - The International Journal of Robotics Research and ApplicationExcellent if the setup and results are heavily focused on practical, deployable solutions for industrial manipulation tasks.
+
+IEEE Transactions on Robotics (T-RO): Premier journal for fundamental robotics.
+
+The International Journal of Robotics Research (IJRR): Pioneer journal, strong theoretical & experimental focus.
+
